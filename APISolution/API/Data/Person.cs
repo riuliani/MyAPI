@@ -1,6 +1,6 @@
 ﻿namespace API.Data
 {
-    public class APIModel
+    public class Person
     {
         public int ID { get; set; }
         public string FirstName { get; set; } = "";
